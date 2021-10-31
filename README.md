@@ -1,3 +1,2 @@
-# README
+# yet another hacktoberfest
 
-This is Rhytti's first Github Repo.
